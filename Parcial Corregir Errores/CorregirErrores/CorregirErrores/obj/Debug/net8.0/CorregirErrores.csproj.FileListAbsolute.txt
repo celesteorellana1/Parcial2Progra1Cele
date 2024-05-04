@@ -1,0 +1,14 @@
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\bin\Debug\net8.0\CorregirErrores.exe
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\bin\Debug\net8.0\CorregirErrores.deps.json
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\bin\Debug\net8.0\CorregirErrores.runtimeconfig.json
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\bin\Debug\net8.0\CorregirErrores.dll
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\bin\Debug\net8.0\CorregirErrores.pdb
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\obj\Debug\net8.0\CorregirErrores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\obj\Debug\net8.0\CorregirErrores.AssemblyInfoInputs.cache
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\obj\Debug\net8.0\CorregirErrores.AssemblyInfo.cs
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\obj\Debug\net8.0\CorregirErrores.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\obj\Debug\net8.0\CorregirErrores.dll
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\obj\Debug\net8.0\refint\CorregirErrores.dll
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\obj\Debug\net8.0\CorregirErrores.pdb
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\obj\Debug\net8.0\CorregirErrores.genruntimeconfig.cache
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Parcial Corregir Errores\CorregirErrores\CorregirErrores\obj\Debug\net8.0\ref\CorregirErrores.dll

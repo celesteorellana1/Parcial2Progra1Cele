@@ -1,0 +1,10 @@
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Windows Form\CalculadoraPrestamo\CalculadoraPrestamo\bin\Debug\CalculadoraPrestamo.exe.config
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Windows Form\CalculadoraPrestamo\CalculadoraPrestamo\bin\Debug\CalculadoraPrestamo.exe
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Windows Form\CalculadoraPrestamo\CalculadoraPrestamo\bin\Debug\CalculadoraPrestamo.pdb
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Windows Form\CalculadoraPrestamo\CalculadoraPrestamo\obj\Debug\CalculadoraPrestamo.csproj.AssemblyReference.cache
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Windows Form\CalculadoraPrestamo\CalculadoraPrestamo\obj\Debug\CalculadoraPrestamo.Form1.resources
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Windows Form\CalculadoraPrestamo\CalculadoraPrestamo\obj\Debug\CalculadoraPrestamo.Properties.Resources.resources
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Windows Form\CalculadoraPrestamo\CalculadoraPrestamo\obj\Debug\CalculadoraPrestamo.csproj.GenerateResource.cache
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Windows Form\CalculadoraPrestamo\CalculadoraPrestamo\obj\Debug\CalculadoraPrestamo.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Windows Form\CalculadoraPrestamo\CalculadoraPrestamo\obj\Debug\CalculadoraPrestamo.exe
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Parcial2Progra1\Windows Form\CalculadoraPrestamo\CalculadoraPrestamo\obj\Debug\CalculadoraPrestamo.pdb
